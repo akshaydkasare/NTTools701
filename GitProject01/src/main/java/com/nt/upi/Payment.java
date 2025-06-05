@@ -7,4 +7,8 @@ public class Payment {
 		return "Payment Successfully";
 	}
 	
+	public String transferMoney() {
+		return "";
+	}
+	
 }
